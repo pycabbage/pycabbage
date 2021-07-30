@@ -1,7 +1,12 @@
-[![](https://raw.githubusercontent.com/kazukazuprogram/kazukazuprogram/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kazukazuprogram/kazukazuprogram/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kazukazuprogram/kazukazuprogram/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+# Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazukazuprogram&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Cabbage Lettuce's GitHub stats](https://github-readme-stats.vercel.app/api?username=pycabbage&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=kazukazuprogram&color=green)
+[![Cabbage Lettuce's github activity graph](https://activity-graph.herokuapp.com/graph?username=pycabbage&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<details>
+  <summary>Profile Stats</summary>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com/?user=pycabbage&amp;theme=react&amp;hide_border=true"></a><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycabbage&amp;theme=react&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"></a>
+</details>
+
